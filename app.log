@@ -39,3 +39,15 @@
 15:04:39.144 [main] INFO  dev.console.App - Bonjour Slf4J !
 15:04:39.151 [main] INFO  dev.console.App - Implementation Logback
 15:04:39.154 [main] DEBUG dev.service.AppService - Traitement 1 : param = bon appétit
+16:31:32.224 [main] INFO  dev.console.App - Bonjour Slf4J !
+16:31:32.231 [main] INFO  dev.console.App - Implementation Logback
+16:31:32.235 [main] DEBUG dev.service.AppService - Traitement 1 : param = bon appétit
+16:33:14.392 [main] INFO  dev.console.App - Bonjour Slf4J !
+16:33:14.397 [main] INFO  dev.console.App - Implementation Logback
+16:33:14.399 [main] DEBUG dev.service.AppService - Traitement 1 : param = bon appétit
+16:33:24.078 [main] INFO  dev.console.App - Bonjour Slf4J !
+16:33:24.084 [main] INFO  dev.console.App - Implementation Logback
+16:33:24.087 [main] DEBUG dev.service.AppService - Traitement 1 : param = bon appétit
+16:36:00.527 [main] INFO  dev.console.App - Bonjour Slf4J !
+16:36:00.533 [main] INFO  dev.console.App - Implementation Logback
+16:36:00.535 [main] DEBUG dev.service.AppService - Traitement 1 : param = bon appétit
